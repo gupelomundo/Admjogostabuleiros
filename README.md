@@ -30,7 +30,7 @@ npm install
 
 create database
 
-````bash
+```bash
 npx prisma migrate dev --name init
 npx prisma generate
 ```
